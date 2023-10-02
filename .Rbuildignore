@@ -1,0 +1,6 @@
+^SPcheminfo\.Rproj$
+^\.Rproj\.user$
+inst/rmarkdown/templates/SPcheminfo/skeleton/.batchtools.conf.R
+^\.github
+docs
+_pkgdown.yml

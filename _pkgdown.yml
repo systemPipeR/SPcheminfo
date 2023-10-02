@@ -1,0 +1,18 @@
+title: SPcheminfo
+url: https://systempipe.org/SPcheminfo/
+authors:
+   Thomas Girke:
+     href: http://girke.bioinformatics.ucr.edu/
+home:
+  links:
+  - text: Download from Github
+    href: https://github.com/systemPipeR/SPcheminfo/
+  - text: Report a bug
+    href: https://github.com/systemPipeR/SPcheminfo/issues
+template:
+  params:
+    ganalytics: G-CCMXLYXWYV
+    bootswatch: flatly
+#    docsearch:
+#      api_key: API_KEY
+#      index_name: INDEX_NAME
